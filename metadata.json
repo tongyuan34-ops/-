@@ -1,0 +1,7 @@
+{
+  "name": "雪穗自习室",
+  "description": "专为学者打造的沉浸式防沉迷自习室：全屏锁屏专注、白噪音伴读、学者大数据提问答疑及智能学情周期总结。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
